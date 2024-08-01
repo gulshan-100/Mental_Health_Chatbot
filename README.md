@@ -19,7 +19,7 @@ This is a Retrieval-Augmented Generation (RAG) based application designed to ans
 ### DEMO
 
 # Demo video
-[![Watch the video]([https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg](https://github.com/gulshan-100/Mental_Health_Chatbot/blob/main/screenshot.png)]([https://youtu.be/T-D1KVIuvjA](https://github.com/gulshan-100/Mental_Health_Chatbot/blob/main/demo.mp4))
+[![Watch the video](https://github.com/gulshan-100/Mental_Health_Chatbot/blob/main/screenshot.png)](https://github.com/gulshan-100/Mental_Health_Chatbot/blob/main/demo.mp4)
 
 
 
