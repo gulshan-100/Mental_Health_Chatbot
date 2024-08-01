@@ -34,7 +34,7 @@ This will start a Gradio interface, typically accessible at `http://localhost:78
 
 ### Deploying on Hugging Face Spaces
 1. Create a new Space on Hugging Face and choose Gradio as the SDK.
-2. Upload the `app.py` and `requirements.txt` files to your Space.
+2. Upload the `HF_app.py` and `requirements.txt` files to your Space.
 3. Add your MistralAI API key as a secret in the Space settings.
 4. The Space will automatically build and deploy your application.
 
@@ -51,9 +51,6 @@ This will start a Gradio interface, typically accessible at `http://localhost:78
 ## Troubleshooting
 - If you encounter an error related to the API key, ensure it's correctly set in your environment variables or Hugging Face Space secrets.
 - For issues with embedding creation, check your internet connection and MistralAI API status.
-
-## License
-[Specify your license here, e.g., MIT License]
 
 ## Acknowledgements
 - MistralAI for providing the language model and embedding capabilities
