@@ -16,6 +16,15 @@ This is a Retrieval-Augmented Generation (RAG) based application designed to ans
 - Python
 - A MistralAI API key
 
+### DEMO
+# Screenshot
+![App Screenshot](https://github.com/gulshan-100/Mental_Health_Chatbot/blob/main/screenshot.png)
+
+# Demo video
+[![Watch the video]([https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg](https://github.com/gulshan-100/Mental_Health_Chatbot/blob/main/screenshot.png)))]([https://youtu.be/T-D1KVIuvjA](https://github.com/gulshan-100/Mental_Health_Chatbot/blob/main/demo.mp4))
+
+
+
 ### Steps
 1. Clone this repository
 2. Install the required packages
