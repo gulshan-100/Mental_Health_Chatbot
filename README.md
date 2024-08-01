@@ -52,14 +52,6 @@ This will start a Gradio interface, typically accessible at `http://localhost:78
 - If you encounter an error related to the API key, ensure it's correctly set in your environment variables or Hugging Face Space secrets.
 - For issues with embedding creation, check your internet connection and MistralAI API status.
 
-## Contributing
-Contributions to improve the application are welcome. Please follow these steps:
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature-branch`)
-3. Make your changes and commit (`git commit -am 'Add some feature'`)
-4. Push to the branch (`git push origin feature-branch`)
-5. Create a new Pull Request
-
 ## License
 [Specify your license here, e.g., MIT License]
 
