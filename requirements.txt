@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+python-dotenv
+mistralai
+numpy
+faiss-cpu
+requests
+tqdm
+gradio
